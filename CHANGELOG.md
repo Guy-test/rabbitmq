@@ -2,6 +2,10 @@ rabbitmq Cookbook CHANGELOG
 ===========================
 This file is used to list changes made in each version of the rabbitmq cookbook.
 
+v2.3.4
+------
+### Improvement
+- added support for changing server_erl_args in rabbitmq env config
 
 v2.3.2
 ------
