@@ -1,6 +1,7 @@
 # rabbitmq Cookbook
 
 [![Build Status](https://travis-ci.org/jjasghar/rabbitmq.svg?branch=master)](https://travis-ci.org/jjasghar/rabbitmq)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGuy-test%2Frabbitmq.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGuy-test%2Frabbitmq?ref=badge_shield)
 
 This is a cookbook for managing RabbitMQ with Chef. It is intended for RabbitMQ 2.6.1 or later releases. With Chef we have adopted support >= 11.14.0 for chef-client, and leaning heavily on chef-client 12 and above.
 
@@ -279,3 +280,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGuy-test%2Frabbitmq.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGuy-test%2Frabbitmq?ref=badge_large)
